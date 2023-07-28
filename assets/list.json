@@ -1,0 +1,112 @@
+[
+  {
+    "contactID": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phoneNumber": "1234567890",
+    "streetAddress1": "123 Main St",
+    "streetAddress2": "",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10001"
+  },
+  {
+    "contactID": "2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phoneNumber": "9876543210",
+    "streetAddress1": "456 Elm St",
+    "streetAddress2": "Apt 2B",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90001"
+  },
+  {
+    "contactID": "3",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "phoneNumber": "5551234567",
+    "streetAddress1": "789 Oak Ave",
+    "streetAddress2": "",
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601"
+  },
+  {
+    "contactID": "4",
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "phoneNumber": "9998887777",
+    "streetAddress1": "321 Pine Rd",
+    "streetAddress2": "Unit 4",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipCode": "94101"
+  },
+  {
+    "contactID": "5",
+    "firstName": "Daniel",
+    "lastName": "Taylor",
+    "phoneNumber": "4445556666",
+    "streetAddress1": "987 Maple Ln",
+    "streetAddress2": "",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98101"
+  },
+  {
+    "contactID": "6",
+    "firstName": "Olivia",
+    "lastName": "Wilson",
+    "phoneNumber": "7776665555",
+    "streetAddress1": "654 Cedar Dr",
+    "streetAddress2": "",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02101"
+  },
+  {
+    "contactID": "7",
+    "firstName": "David",
+    "lastName": "Anderson",
+    "phoneNumber": "2223334444",
+    "streetAddress1": "852 Oakwood Ave",
+    "streetAddress2": "Suite 10",
+    "city": "Houston",
+    "state": "TX",
+    "zipCode": "77001"
+  },
+  {
+    "contactID": "8",
+    "firstName": "Sophia",
+    "lastName": "Martin",
+    "phoneNumber": "6667778888",
+    "streetAddress1": "159 Birch St",
+    "streetAddress2": "",
+    "city": "Miami",
+    "state": "FL",
+    "zipCode": "33101"
+  },
+  {
+    "contactID": "9",
+    "firstName": "James",
+    "lastName": "Thompson",
+    "phoneNumber": "1112223333",
+    "streetAddress1": "753 Elmwood Ave",
+    "streetAddress2": "",
+    "city": "Denver",
+    "state": "CO",
+    "zipCode": "80201"
+  },
+  {
+    "contactID": "10",
+    "firstName": "Isabella",
+    "lastName": "Lewis",
+    "phoneNumber": "3334445555",
+    "streetAddress1": "456 Pine St",
+    "streetAddress2": "",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipCode": "85001"
+  }
+]
